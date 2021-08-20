@@ -129,7 +129,7 @@
         <main class="mainindex">
 
             <section class="s1ndex">
-                <form action="./pages/principal.html" target="" method="get" name="formDatosPersonales">
+                <form action="./pages/principal.php" target="" method="get" name="formDatosPersonales">
 
                     <label for="nombre">Nombre</label>
                     <input type="text" name="nombre" id="nombre" placeholder="Escribe tu nombre"/>

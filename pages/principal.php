@@ -16,11 +16,11 @@
 
        <nav>
                <ul class="ulcontent">
-                   <li class="lista"><a class="alink" href="./listadoProductos.html">Productos</a></li>
-                   <li class="lista"><a class="alink" href="./listadoOfertas.html">Ofertas</a></li>
+                   <li class="lista"><a class="alink" href="./listadoProductos.php">Productos</a></li>
+                   <li class="lista"><a class="alink" href="./listadoOfertas.php">Ofertas</a></li>
                    <li class="lista"><a class="alink" href="#">Nosotros</a></li>
-                   <li class="lista"><a class="alink" href="./frmRegistroClientes.html">clientes</a></li>
-                   <li class="lista"><a class="alink" href="./frmRegistroProductos.html">registros</a></li>
+                   <li class="lista"><a class="alink" href="./frmRegistroClientes.php">clientes</a></li>
+                   <li class="lista"><a class="alink" href="./frmRegistroProductos.php">registros</a></li>
                    <li class="lista"><a class="alink" href="../index.html">salir</a></li>
                </ul>
        </nav>
