@@ -33,7 +33,7 @@
                            </div>
 
                            <div class="botton-container">
-                                <a class="back-nutton button" href="#">Atras</a>
+                                <a class="back-nutton button" href="principal.php">Atras</a>
                                 <input type="button" value="Registrar" class="button">
                            </div>
 

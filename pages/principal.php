@@ -21,7 +21,7 @@
                    <li class="lista"><a class="alink" href="#">Nosotros</a></li>
                    <li class="lista"><a class="alink" href="./frmRegistroClientes.php">clientes</a></li>
                    <li class="lista"><a class="alink" href="./frmRegistroProductos.php">registros</a></li>
-                   <li class="lista"><a class="alink" href="../index.html">salir</a></li>
+                   <li class="lista"><a class="alink" href="../index.php">salir</a></li>
                </ul>
        </nav>
 

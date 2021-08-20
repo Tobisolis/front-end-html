@@ -32,7 +32,7 @@
                     </tr>
                   </table>
                   <div class="botton-container-l">
-                    <a class="back-nutton button" href="./principal.html">Inicio</a>
+                    <a class="back-nutton button" href="principal.php">Inicio</a>
                   </div>
             </section>
             <section>
